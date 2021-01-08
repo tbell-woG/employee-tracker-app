@@ -1,4 +1,4 @@
-var inquirer = require("inquier");
+var inquirer = require("inquirer");
 var connection = require('./connection');
 
 const viewOptions = [

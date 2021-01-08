@@ -19,6 +19,7 @@
   "homepage": "https://github.com/tbell-woG/employee-tracker-app#readme",
   "dependencies": {
     "inquirer": "^7.3.3",
+    "mongoskin": "^2.1.0",
     "mysql": "^2.18.1"
   }
 }
