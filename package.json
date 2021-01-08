@@ -1,0 +1,24 @@
+{
+  "name": "employee-tracker-app",
+  "version": "1.0.0",
+  "description": "Content Management System for managing employees",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbell-woG/employee-tracker-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbell-woG/employee-tracker-app/issues"
+  },
+  "homepage": "https://github.com/tbell-woG/employee-tracker-app#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
