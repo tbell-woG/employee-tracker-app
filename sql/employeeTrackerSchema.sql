@@ -75,3 +75,4 @@ INSERT INTO department (department_name)
 VALUES ("Legal");
 INSERT INTO department (department_name)
 VALUES ("Sales");
+
